@@ -1,0 +1,60 @@
+site:
+  skills: "Doutorando - Cientista de Dados - Pesquisador - Esportista"
+  description: ""
+  nav:
+    portfolio: "Projetos"
+    about: "Sobre"
+    contact: "Contato"
+    publications: "Publicações"
+  about:
+    about: "Sobre"
+    a: "Atualmente, sou Doutorando do Programa de Pós-Graduação em Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul"
+    b: "Também sou membro do Grupo de Pesquisa em Aprendizado de Máquina e Inteligência de Negócio"
+    c: "da"
+    d: "Fui professor substituto na Universidade Federal de Santa Maria"
+    e: "de Março de 2014 até Agosto de 2015"
+    f: "Fui mestrando em Ciência da Computação na Universidade Federal de Santa Maria"
+    g: "de Março de 2013 até Março de 2015"
+    h: "Em 2012 ajudei a criar o"
+    i: "um delivery online de comida. Este atuava como intermediador entre consumidores e estabelecimentos de alimentação. Em 2016 ele foi adquirido pelo"
+    j: "Atualmente, estou trabalhando com analise e pré-processamento de dados; identificação de conhecimento (agrupamento de dados / regras de associção) no contexto de problemas de negócios; pesquisa e desenvolvimento de algoritmos escaláveis (incremental e para fluxo contínuo de dados) em aprendizado não supervisionado."
+    k: "Possuo experiência em Inteligência Artificial, Mineração de Dados, Aprendizado de Máquina e Engenharia de Software, atuando principalmente com Big data, Fluxo Contínuo de Dados, Aprendizado não supervisionado e Raciocínio Baseado em Casos"
+    l: "Programo em"
+    m: "e"
+  cv:
+    education: "Formação"
+    phd: "Doutorado em Ciência da Computação, Pontificia Universidade Católica do Rio Grande do Sul"
+    phd_fields: "Áreas: Big Data, Fluxo Contínuo de Dados, Mineração de Dados, Aprendizado de Máquina"
+    master: "Mestrado em Ciência da Computação, Universidade Federal de Santa Maria"
+    master_dissertation: "Dissertação"
+    master_title: "Raciocínio Baseado em Casos - CBR - para Gerenciamento Colaborativo de Riscos"
+    master_fields: "Áreas: Raciocínio Baseado em Casos, Gerenciamento Colaborativo de Riscos, Jogos de Diálogo, Argumentação e Explicação"
+    graduation: "Bacharelado em Sistemas de Informação, Centro Universitário Fransciscano"
+    graduation_fields: "Áreas: Máquinas Virtuais e Sistemas Inteligentes"
+    experience: "Experiência"
+    phd_research: "Pesquisador Doutorando no projeto Mobile Data Analytics entre"
+    phd_research_fields: "Big Data, Fluxo Contínuo de Dados, Pesquisa de Mineração de Dados e Aprendizado de Máquina Research no contexto de problemas de negócio"
+    substitute: "Professor Substituto, Universidade Federal de Santa Maria"
+    substitute_class: "Professor de: Estrutura de dados no curso de Engenharia da Computação, Projeto de Software I e Qualidade de Software no curso de Sistemas de Informação, Qualidade de Software e Engenharia de Software no curso de Ciência da Computação e Introdução a Computação nos cursos de Administração, Engenharia Civil, Engenharia Ambiental e Agronomia"
+    co_founder_description: "Co-fundador da empresa e responsável pela ciência de dados e desenvolvimento de produtos"
+    analyst: "Analista de Sistemas"
+    analyst_description: "Responsável pelo gerenciamento de projetos e operações de serviços relacionados a TI incluindo desenvolvimento e integração de sistemas CRM"
+    research: "Pesquisa"
+    research_description: "Meus principais interesses de pesquisa são em Aprendizado de Máquina, Fluxo Contínuo de Dados e Big Data. Em particular, estou interessado em Detecção de Novidades, Mudança de Conceitos, Series Temporais, Agrupamento de Dados, Rastreamento de Objetos e Redução de Dimensionalidade"
+  projects:
+    title: "Projetos"
+  publications:
+    title: "Publicações"
+  contact:
+    contact: "Contato"
+    send: "Enviar"
+  footer:
+    location: "Endereço"
+    social: "Redes Sociais"
+    credits: "GPIN"
+  credits: "Grupo de Pesquisa em Aprendizado de Máquina e Inteligência de Negócio"
+a1: "Escola Politécnica"
+a2: Pontifícia Universidade Católica
+a3: do Rio Grande do Sul - PUCRS
+a4: Avenida Ipiranga, 6681 - Prédio 32
+a5: Sala 628
