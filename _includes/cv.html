@@ -11,35 +11,48 @@
             <div class="col-lg-10 col-lg-offset-1">
                 <p style="color: #18bc9c"> {% t site.cv.education %}</p>
                 <ul>
-                    <li>{% t site.cv.phd %}  - <a href="http://www.pucrs.br">PUCRS</a>, 4 {% if site.lang == 'pt' %}˚ ano{% else %}<sup>th</sup> year {% endif %}.</li>
+                    <li>{% t site.cv.phd %}  - <a href="http://www.pucrs.br" target="_blank">PUCRS</a>, 2019.</li>
                     <ul>
+                        <li>{% t site.cv.phd_dissertation %}: {% t site.cv.phd_title %}.</li>
                         <li>{% t site.cv.phd_fields %}.</li>
                     </ul>
-                    <li>{% t site.cv.master %} - <a href="http://www.ufsm.br">UFSM</a>, 2015.</li>
+                    <li>{% t site.cv.master %} - <a href="http://www.ufsm.br" target="_blank">UFSM</a>, 2015.</li>
                     <ul>
-                        <li><a href="https://www.researchgate.net/publication/280237486_Raciocinio_Baseado_em_Casos_para_Gerenciamento_Colaborativo_de_Riscos">{% t site.cv.master_dissertation %}:</a> {% t site.cv.master_title %}.</li>
+                        <li><a href="https://www.researchgate.net/publication/280237486_Raciocinio_Baseado_em_Casos_para_Gerenciamento_Colaborativo_de_Riscos" target="_blank">{% t site.cv.master_dissertation %}:</a> {% t site.cv.master_title %}.</li>
                         <li>{% t site.cv.master_fields %}.</li>
                     </ul>
-                    <li>{% t site.cv.graduation %} - <a href="http://www.unifra.br">UNIFRA</a>, 2012.</li>
+                    <li>{% t site.cv.graduation %} - <a href="http://www.unifra.br" target="_blank">UFN</a>, 2012.</li>
                     <ul>
                         <li>{% t site.cv.graduation_fields %}.</li>
                     </ul>
                 </ul>
                 <p style="color: #18bc9c">{% t site.cv.experience %}</p>
                 <ul>
-                    <li>{% t site.cv.phd_research %} <a href="http://www.pucrs.br">PUCRS</a> {% if site.lang == 'pt' %} e {% else %}and{% endif %} <a href="www.motorola.com/"> Motorola </a>, 2015 - 2018</li>
+                    <li>{% t site.cv.agibank %} <a href="http://www.agibank.com.br" target="_blank">Agibank</a>, 2019 - {% if site.lang == 'pt' %} presente. {% else %}present.{% endif %}</li>
                     <ul>
-                        <li>{% t site.cv.phd_research_fields %}.</li>
+                        <li>{% t site.cv.agibank_fields%}.</li>
                     </ul>
-                    <li>{% t site.cv.substitute %} - <a href="www.ufsm.br">UFSM</a>, {% if site.lang == 'pt' %} Março de 2014 - Agosto de 2015 {% else %} March 2014 - August 2015 {% endif %}.</li>
+                    <li>{% t site.cv.uniritter %} <a href="http://www.uniritter.edu.br" target="_blank">Uniritter (Laureate Universities)</a>, 2018 - {% if site.lang == 'pt' %} presente. {% else %}present.{% endif %}</li>
+                    <ul>
+                        <li>{% t site.cv.uniritter_fields%}.</li>
+                    </ul>
+                    <li>{% t site.cv.phd_research_2 %} <a href="http://www.pucrs.br" target="_blank">PUCRS</a> {% if site.lang == 'pt' %} e {% else %}and{% endif %} <a href="https://www.dell.com/" target="_blank"> DELL </a>, 2018 - 2019</li>
+                    <ul>
+                        <li>{% t site.cv.phd_research_fields_2 %}.</li>
+                    </ul>
+                    <li>{% t site.cv.phd_research_1 %} <a href="http://www.pucrs.br" target="_blank">PUCRS</a> {% if site.lang == 'pt' %} e {% else %}and{% endif %} <a href="https://www.motorola.com/" target="_blank"> Motorola </a>, 2015 - 2018</li>
+                    <ul>
+                        <li>{% t site.cv.phd_research_fields_1 %}.</li>
+                    </ul>
+                    <li>{% t site.cv.substitute %} - <a href="http://www.ufsm.br" target="_blank">UFSM</a>, {% if site.lang == 'pt' %} Março de 2014 - Agosto de 2015 {% else %} March 2014 - August 2015 {% endif %}.</li>
                     <ul>
                         <li>{% t site.cv.substitute_class %}.</li>
                     </ul>
-                    <li>Co-founder, <a href="www.deliverymuch.com.br">2Rook Desenvolvimento de Software LTDA - GRUBOO</a>, 2012 - 2014.</li>
+                    <li>Co-founder, <a href="http://www.deliverymuch.com.br" target="_blank">2Rook Desenvolvimento de Software LTDA - GRUBOO</a>, 2012 - 2014.</li>
                     <ul>
                         <li>{% t site.cv.co_founder_description %}.</li>
                     </ul>
-                    <li>{% t site.cv.analyst %}, <a href="http://reprotec.com.br">Reprotec by Vivo</a>, 2007 - 2011.</li>
+                    <li>{% t site.cv.analyst %}, <a href="http://reprotec.com.br" target="_blank">Reprotec by Vivo</a>, 2007 - 2011.</li>
                     <ul>
                         <li>{% t site.cv.analyst_description %}.</li>
                     </ul>
@@ -47,14 +60,14 @@
                 {% if site.lang == 'pt' %}
                   <p style="color: #18bc9c">Currículo Completo</p>
                   <div class="col-lg-12 text-center">
-                      <a href="http://lattes.cnpq.br/5547209032732533" class="btn btn-lg btn-outline">
+                      <a href="http://lattes.cnpq.br/5547209032732533" class="btn btn-lg btn-outline" target="_blank">
                           <i class="fa fa-download"></i> Abrir CV
                       </a>
                   </div>
                 {% else %}
                   <p style="color: #18bc9c">Full Resume</p>
                   <div class="col-lg-12 text-center">
-                      <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4686910A3&idiomaExibicao=2" class="btn btn-lg btn-outline">
+                      <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4686910A3&idiomaExibicao=2" class="btn btn-lg btn-outline" target="_blank">
                           <i class="fa fa-download"></i> Donwload CV
                       </a>
                   </div>

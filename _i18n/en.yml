@@ -1,5 +1,5 @@
 site:
-  skills: "Ph.D. Candidate - Data Scientist - Researcher - Sport's Lover"
+  skills: "Ph.D. - Data Specialist - Data Scientist - Researcher - Sport's Lover"
   description: ""
   nav:
     portfolio: "Projects"
@@ -8,53 +8,65 @@ site:
     publications: "Publications"
   about:
     about: "About"
-    a: "I am currently Ph.D. Candidate at Graduate Program in Computer Science from Pontifical Catholic University of Rio Grande do Sul"
-    b: "I am also member of the Business Intelligence and Machine Learning Research Group"
-    c: "of"
-    d: "I was Substitute Lecture at Federal University of Santa Maria"
+    a: "Currently, he is coordinator of the Graduate Course of Data Cience and Big Data at"
+    b: "He is also Data Coach / Data Scientist at"
+    c: "He is Ph.D. in Computer Science (2019) by the Pontifical Catholic University of Rio Grande do Sul"
+    d: "He was Substitute Lecture at Federal University of Santa Maria"
     e: "from March 2014 to August 2015"
-    f: "I was Master's Student at Federal University of Santa Maria"
-    g: "from March 2013 to March 2015"
-    h: "In 2012 we founded"
-    i: "an online food order and delivery service. It acts as an intermediary between independent take-out food outlets and customers. In 2016 it was acquired by"
-    j: "Currently, I am working with analysis and pre-processing of data; identification of descriptive tasks (clustering / association rules) in the context of business issues; research and development of scalable algorithms (incremental and for datastream) for unsupervised learning."
-    k: "I have experience in Artificial Intelligence, Data Mining, Machine Learning, and Software Engineering, working mainly with Big data, Data Streams, Unsupervised Machine Learning and Case Based Reasoning"
+    f: "He is MSc in Computer Science (2015) by the Federal University of Santa Maria"
+    h: "In 2012 he was one of the founders of"
+    i: "an online food order and delivery service, which acts as an intermediary between independent take-out food outlets and customers. In 2016 it was sold to"
+    j: "Currently, he works with D2A - Data-Driven methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream) with machine learning. The main activities are exploration, analysis, conciliation and availability of data in Data Lake, as well as investigation of problems using technologies such as Spark, AWS, Power BI and Tableau"
+    k: "He has experience in Artificial Intelligence, Data Mining, Machine Learning, and Software Engineering, working mainly with Big data, Data Streams, Machine Learning and Case Based Reasoning"
     l: "I code in"
     m: "and"
   cv:
     education: "Education"
     phd: "Ph.D., Computer Science, Pontifical Catholic University of Rio Grande do Sul"
+    phd_dissertation: "Thesi"
+    phd_title: "A Framework for Identification and Monitoring of Profiles and Behaviors of Consumers Based on Mobile Application Usage"
     phd_fields: "Fields: Big Data, Data Stream, Data Mining, Machine Learning"
-    master: "M.A., Computer Science, Federal University of Santa Maria"
+    master: "MSc, Computer Science, Federal University of Santa Maria"
     master_dissertation: "Dissertation"
     master_title: "Case-based Reasoning - CBR - for Collaborative Risk Management"
     master_fields: "Fields: Case-based Reasoning, Collaborative Risk Management, Dialogue Game, Argumentation and Explanation"
-    graduation: "B.A., Information Systems, Franciscan University Center"
+    graduation: "B.A., Information Systems, Franciscan University"
     graduation_fields: "Fields: Virtual Machines and Intelligent Systems"
     experience: "Experience"
-    phd_research: "Ph.D. Research in the Mobile Data Analytics project between"
-    phd_research_fields: "Big Data, Data Stream, Data Mining and Machine Learning Research in the context of business issues"
+    agibank: "Data Coach / Data Specialist at"
+    agibank_fields: "Big Data, Machine Learning, Spark in the context of D2A - Data-Driven culture to deliver automated and scalable solutions"
+    uniritter: "Graduation Cordinator / Assistant Professor at"
+    uniritter_fields: "Acting as Cordinator and Professor in the graduation (Lato Sensu) curse of Data Science and Big Data, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
+    phd_research_2: "Ph.D. Candidate Research in the Credit Fraud project between"
+    phd_research_fields_2: "Big Data, Data Stream, Data Mining and Machine Learning Research in the context of business issues"
+    phd_research_1: "Ph.D. Candidate Research in the Mobile Data Analytics project between"
+    phd_research_fields_1: "Big Data, Data Stream, Data Mining and Machine Learning Research in the context of business issues"
     substitute: "Substitute Lecturer, Federal University of Santa Maria"
     substitute_class: "Subtitute Lecture in: Data Structure class of Computer Engineering course, Software Project I and Software Quality classes of Information Systems course, Software Quality and Software Engineering classes of the Computer Science course, and Introduction to Computers class of Administration, Civil Engineering, Forestry and Agronomy curses"
     co_founder_description: "In charge of everything, Data Science and Products"
     analyst: "System Analyst"
     analyst_description: "Responsible for managing projects and Information Technology services operations, including systems development and integration"
     research: "Research"
-    research_description: "My main research interests are in Machine Learning, Data Stream and Big Data. In particular, I am interested in Novelty Detection, Concept Drift, Time Series Clustering, Object Tracking, Regularization and Dimensionality Reduction."
+    research_description: "My main research interests are in Machine Learning, Data Stream and Big Data. In particular, he is interested in Data-Driven, Novelty Detection, Concept Drift, Time Series Clustering, Object Tracking, Regularization and Dimensionality Reduction"
   projects:
     title: "Projects"
   publications:
     title: "Publications"
+    text: "The pulications are listed on "
   contact:
     contact: "Contact"
     send: "Send"
   footer:
-    location: "Location"
+    location: "Industry Location"
     social: "AROUND THE WEB"
-    credits: "GPIN"
-  credits: "Business Intelligence and Machine Learning Research Group"
-a1: School of Technology
-a2: Pontifical Catholic University of Rio
-a3: Grande do Sul - PUCRS
-a4: Avenue Ipiranga, 6681 - Building 32
-a5: Room 628
+    credits: "Educational Location"
+b1: Uniritter
+b2: Big Data and Data Science
+b3: João Wallig Avenue, 1800, 4th Floor
+b4: Passo d'Areia
+b5: Porto Alegre, RS, Brazil
+a1: Agibank
+a2: Big Data
+a3: Mariante Street, 25, 8th Floor,
+a4: Moinhos de Ventos
+a5: Porto Alegre, RS, Brazil

@@ -1,5 +1,5 @@
 site:
-  skills: "Doutorando - Cientista de Dados - Pesquisador - Esportista"
+  skills: "Doutor - Especialista e Cientista de Dados - Pesquisador - Esportista"
   description: ""
   nav:
     portfolio: "Projetos"
@@ -8,53 +8,65 @@ site:
     publications: "Publicações"
   about:
     about: "Sobre"
-    a: "Atualmente, sou Doutorando do Programa de Pós-Graduação em Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul"
-    b: "Também sou membro do Grupo de Pesquisa em Aprendizado de Máquina e Inteligência de Negócio"
-    c: "da"
-    d: "Fui professor substituto na Universidade Federal de Santa Maria"
+    a: "Atualmente, é cordenador do curso de Pós-Graduação em Data Science e Big Data na"
+    b: "Também é Data Coach / Data Specialist no"
+    c: "É Doutor em Ciência da Computação (2019) pela Pontifícia Universidade Católica do Rio Grande do Sul"
+    d: "Foi professor substituto na Universidade Federal de Santa Maria"
     e: "de Março de 2014 até Agosto de 2015"
-    f: "Fui mestrando em Ciência da Computação na Universidade Federal de Santa Maria"
-    g: "de Março de 2013 até Março de 2015"
-    h: "Em 2012 ajudei a criar o"
-    i: "um delivery online de comida. Este atuava como intermediador entre consumidores e estabelecimentos de alimentação. Em 2016 ele foi adquirido pelo"
-    j: "Atualmente, estou trabalhando com analise e pré-processamento de dados; identificação de conhecimento (agrupamento de dados / regras de associção) no contexto de problemas de negócios; pesquisa e desenvolvimento de algoritmos escaláveis (incremental e para fluxo contínuo de dados) em aprendizado não supervisionado."
-    k: "Possuo experiência em Inteligência Artificial, Mineração de Dados, Aprendizado de Máquina e Engenharia de Software, atuando principalmente com Big data, Fluxo Contínuo de Dados, Aprendizado não supervisionado e Raciocínio Baseado em Casos"
+    f: "É Mestre em Ciência da Computação (2015) pela Universidade Federal de Santa Maria"
+    h: "Em 2012 ajudou a criar o"
+    i: "um sistema de delivery online de comida, o qual atuava como intermediador entre consumidores e estabelecimentos de alimentação. Em 2016 foi vendido ao"
+    j: "Atualmente, atua com metodologias D2A - Data-Driven visando novas possibilidades para áreas de negócio por meio de pesquisa e coaching para entregar soluções automatizadas e escaláveis (incremental e para fluxo contínuo de dados) com aprendizado de máquina. As principais atividades são exploração, análise, conciliação e disponibilidade de dados em Data Lake, bem como investigação de problemas com uso de tecnologias como Spark, AWS, Power BI e Tableau"
+    k: "Possui experiência em Inteligência Artificial, Mineração de Dados, Aprendizado de Máquina e Engenharia de Software, atuando principalmente com Big data, Fluxo Contínuo de Dados, Aprendizado supervisionado e Raciocínio Baseado em Casos"
     l: "Programo em"
     m: "e"
   cv:
     education: "Formação"
     phd: "Doutorado em Ciência da Computação, Pontificia Universidade Católica do Rio Grande do Sul"
+    phd_dissertation: "Tese"
+    phd_title: "Um Framework para Identificação e Monitoramento de Perfis e Comportamentos de Consumidores Baseado no Uso de Aplicativos em Dispositivos Móveis"
     phd_fields: "Áreas: Big Data, Fluxo Contínuo de Dados, Mineração de Dados, Aprendizado de Máquina"
     master: "Mestrado em Ciência da Computação, Universidade Federal de Santa Maria"
     master_dissertation: "Dissertação"
     master_title: "Raciocínio Baseado em Casos - CBR - para Gerenciamento Colaborativo de Riscos"
     master_fields: "Áreas: Raciocínio Baseado em Casos, Gerenciamento Colaborativo de Riscos, Jogos de Diálogo, Argumentação e Explicação"
-    graduation: "Bacharelado em Sistemas de Informação, Centro Universitário Fransciscano"
+    graduation: "Bacharelado em Sistemas de Informação, Universidade Fransciscana"
     graduation_fields: "Áreas: Máquinas Virtuais e Sistemas Inteligentes"
     experience: "Experiência"
-    phd_research: "Pesquisador Doutorando no projeto Mobile Data Analytics entre"
-    phd_research_fields: "Big Data, Fluxo Contínuo de Dados, Pesquisa de Mineração de Dados e Aprendizado de Máquina Research no contexto de problemas de negócio"
+    agibank: "Data Coach / Data Specialist no"
+    agibank_fields: "Big Data, Machine Learning, Spark no contexto de cultura D2A - Data-Driven visando entregar soluções automáticas e escaláveis"
+    uniritter: "Cordenador Pós-Graduação / Professor Auxiliar na"
+    uniritter_fields: "Atuando como Cordenador e Professor no curso de Pós-Graduação (Lato Sensu) em Data Science e Big Data, bem como Professor nos cursos de graduação em Ciência da Computação, Big Data e Inteligência Analítica e Análise e Desenvolvimento de Software"
+    phd_research_2: "Pesquisador Doutorando no projeto Mobile Data Analytics entre"
+    phd_research_fields_2: "Big Data, Fluxo Contínuo de Dados, Pesquisa de Mineração de Dados e Aprendizado de Máquina no contexto de problemas de negócio"
+    phd_research_1: "Pesquisador Doutorando no projeto Credit Fraud entre"
+    phd_research_fields_1: "Big Data, Fluxo Contínuo de Dados, Pesquisa de Mineração de Dados e Aprendizado de Máquina no contexto de problemas de negócio"
     substitute: "Professor Substituto, Universidade Federal de Santa Maria"
     substitute_class: "Professor de: Estrutura de dados no curso de Engenharia da Computação, Projeto de Software I e Qualidade de Software no curso de Sistemas de Informação, Qualidade de Software e Engenharia de Software no curso de Ciência da Computação e Introdução a Computação nos cursos de Administração, Engenharia Civil, Engenharia Ambiental e Agronomia"
     co_founder_description: "Co-fundador da empresa e responsável pela ciência de dados e desenvolvimento de produtos"
     analyst: "Analista de Sistemas"
     analyst_description: "Responsável pelo gerenciamento de projetos e operações de serviços relacionados a TI incluindo desenvolvimento e integração de sistemas CRM"
     research: "Pesquisa"
-    research_description: "Meus principais interesses de pesquisa são em Aprendizado de Máquina, Fluxo Contínuo de Dados e Big Data. Em particular, estou interessado em Detecção de Novidades, Mudança de Conceitos, Series Temporais, Agrupamento de Dados, Rastreamento de Objetos e Redução de Dimensionalidade"
+    research_description: "Os principais interesses de pesquisa são em Aprendizado de Máquina, Fluxo Contínuo de Dados e Big Data. Em particular, está interessado em Orientação a Dados, Detecção de Novidades, Mudança de Conceitos, Series Temporais, Agrupamento de Dados, Rastreamento de Objetos e Redução de Dimensionalidade"
   projects:
     title: "Projetos"
   publications:
     title: "Publicações"
+    text: "As publicações estão no "
   contact:
     contact: "Contato"
     send: "Enviar"
   footer:
-    location: "Endereço"
+    location: "Indústria"
     social: "Redes Sociais"
-    credits: "GPIN"
-  credits: "Grupo de Pesquisa em Aprendizado de Máquina e Inteligência de Negócio"
-a1: "Escola Politécnica"
-a2: Pontifícia Universidade Católica
-a3: do Rio Grande do Sul - PUCRS
-a4: Avenida Ipiranga, 6681 - Prédio 32
-a5: Sala 628
+    credits: "Educação"
+b1: Uniritter
+b2: Big Data and Data Science
+b3: Av. João Wallig, 1800, 4˚ Andar
+b4: Passo d'Areia
+b5: Porto Alegre, RS, Brasil
+a1: Agibank
+a2: Big Data
+a3: Rua Mariante, 25, 8˚ Andar,
+a4: Moinhos de Ventos
+a5: Porto Alegre, RS, Brasil

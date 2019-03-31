@@ -4,7 +4,7 @@ email: rechianielsen@gmail.com
 url: nr.github.io
 baseurl: ""
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "data scientist, researcher"
+keywords: "Data Specialist, Researcher, Data Scientist"
 # skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Rechia Nielsen
 
@@ -40,7 +40,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Ms. Nielsen Rechia
+  copyright: Ph.D. Nielsen Rechia
   # location: Location
   # social: Around the Web
   # credits: Credits
@@ -66,7 +66,14 @@ social:
 
 
 # Postal address (add as many lines as necessary)
-address:
+address2:
+  - line: b1
+  - line: b2
+  - line: b3
+  - line: b4
+  - line: b5
+
+address1:
   - line: a1
   - line: a2
   - line: a3
