@@ -8,16 +8,16 @@ site:
     publications: "Publications"
   about:
     about: "About"
-    a: "Currently, he is coordinator of the Graduate Course of Data Cience and Big Data at"
-    b: "He is also Data Coach / Data Scientist at"
+    a: "Currently, he is Data / Data Coach at"
+    b: "He is also coordinator of the Graduate Course of Data Cience and Big Data at"
     c: "He is Ph.D. in Computer Science (2019) by the Pontifical Catholic University of Rio Grande do Sul"
     d: "He was Substitute Lecture at Federal University of Santa Maria"
     e: "from March 2014 to August 2015"
     f: "He is MSc in Computer Science (2015) by the Federal University of Santa Maria"
     h: "In 2012 he was one of the founders of"
     i: "an online food order and delivery service, which acts as an intermediary between independent take-out food outlets and customers. In 2016 it was sold to"
-    j: "Currently, he works with D2A - Data-Driven methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream) with machine learning. The main activities are exploration, analysis, conciliation and availability of data in Data Lake, as well as investigation of problems using technologies such as Spark, AWS, Power BI and Tableau"
-    k: "He has experience in Artificial Intelligence, Data Mining, Machine Learning, and Software Engineering, working mainly with Big data, Data Streams, Machine Learning and Case Based Reasoning"
+    j: "Currently, he works with D2A - Data-Driven Agibank methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream). The main activities are exploration, analysis, conciliation, availability, and collection of data on Data Lake, as well as investigation of problems through technologies such as Hadoop, Spark, Hive, Presto, Python, Scala and R on AWS EMR / SageMaker architecture. In addition, performing analysis and pre-processing of a large volume of data and working with Machine Learning and Statistical approaches for providing data-driven solutions"
+    k: "He has experience in Artificial Intelligence, Data Mining, Machine Learning, and Software Engineering, working mainly with Big data, Data Streams, Supervised and Unsupervised ML, and Case Based Reasoning"
     l: "I code in"
     m: "and"
   cv:
@@ -33,8 +33,8 @@ site:
     graduation: "B.A., Information Systems, Franciscan University"
     graduation_fields: "Fields: Virtual Machines and Intelligent Systems"
     experience: "Experience"
-    agibank: "Data Coach / Data Specialist at"
-    agibank_fields: "Big Data, Machine Learning, Spark in the context of D2A - Data-Driven culture to deliver automated and scalable solutions"
+    agibank: "Data / Data Coach at"
+    agibank_fields: "Working with the D2A - Data-Driven Agibank methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream). The main activities are exploration, analysis, conciliation, availability, and collection of data on Data Lake, as well as investigation of problems through technologies such as Hadoop, Spark, Hive, Presto, Python, Scala and R on AWS EMR / SageMaker architecture. In addition, performing analysis and pre-processing of a large volume of data and working with Machine Learning and Statistical approaches for providing data-driven solutions"
     uniritter: "Graduation Coordinator / Assistant Professor at"
     uniritter_fields: "Acting as Coordinator and Professor in the graduation (Lato Sensu) curse of Data Science and Big Data, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
     phd_research_2: "Ph.D. Candidate Research in the Credit Fraud project between"
@@ -61,12 +61,12 @@ site:
     social: "AROUND THE WEB"
     credits: "Educational Location"
 b1: Uniritter
-b2: Big Data and Data Science
+b2: Data Scince and Big Data
 b3: João Wallig Avenue, 1800, 4th Floor
 b4: Passo d'Areia
 b5: Porto Alegre, RS, Brazil
 a1: Agibank
-a2: Big Data
+a2: Data & Analytics
 a3: Mariante Street, 25, 8th Floor,
 a4: Moinhos de Ventos
 a5: Porto Alegre, RS, Brazil
