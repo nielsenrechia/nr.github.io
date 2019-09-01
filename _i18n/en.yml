@@ -33,7 +33,7 @@ site:
     graduation: "B.A., Information Systems, Franciscan University"
     graduation_fields: "Fields: Virtual Machines and Intelligent Systems"
     experience: "Experience"
-    agibank: "Data / Data Coach at"
+    agibank: "Data Specialist / Data Coach at"
     agibank_fields: "Working with the D2A - Data-Driven Agibank methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream). The main activities are exploration, analysis, conciliation, availability, and collection of data on Data Lake, as well as investigation of problems through technologies such as Hadoop, Spark, Hive, Presto, Python, Scala and R on AWS EMR / SageMaker architecture. In addition, performing analysis and pre-processing of a large volume of data and working with Machine Learning and Statistical approaches for providing data-driven solutions"
     uniritter: "Graduation Coordinator / Assistant Professor at"
     uniritter_fields: "Acting as Coordinator and Professor in the graduation (Lato Sensu) curse of Data Science and Big Data, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
