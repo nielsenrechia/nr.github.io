@@ -15,8 +15,8 @@ languages: ["pt", "en"]
 language_default: "pt"
 exclude_from_localizations: ["javascript", "images", "css"]
 
-# collections:
-#   - blog
+collections:
+  - blog
 
 # Google webmaster tools
 google_verify:
