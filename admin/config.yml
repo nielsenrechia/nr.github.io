@@ -1,16 +1,16 @@
-backend:
-  name: github
-  repo: nielsenrechia/nr.github.io
-  branch: master
-  site_domain: nielsenrechia.netlify.com
+# backend:
+#   name: github
+#   repo: nielsenrechia/nr.github.io
+#   branch: master
+#   site_domain: nielsenrechia.netlify.com
 media_folder: "img"
 collections:
   - name: post # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Posts" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
-    filter:
-      field: language
-      value: pt-br
+    # filter:
+    #   field: language
+    #   value: pt-br
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
