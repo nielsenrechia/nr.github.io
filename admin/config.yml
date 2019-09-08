@@ -1,13 +1,13 @@
-# backend:
-#   name: github
-#   repo: nielsenrechia/nr.github.io
-#   branch: master
-#   site_domain: nielsenrechia.netlify.com
+backend:
+  name: github
+  repo: nielsenrechia/nr.github.io/admin
+  branch: master
+  site_domain: nielsenrechia.netlify.com
 media_folder: "img"
 collections:
   - name: post # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
+    label: "Posts" # Used in the UI/
+    folder: "nielsenrechia/nr.github.io/_posts" # The path to the folder where the documents are stored
     # filter:
     #   field: language
     #   value: pt-br
