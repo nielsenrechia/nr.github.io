@@ -1,11 +1,15 @@
+<div class="col-lg-12 text-center">
+    <h1>Latest Posts</h1>
 
-<h1>Latest Posts</h1>
+    <ul>
+      {% for p in site._posts %}
+        <!-- <li>
+        <a href="{{ p.url }}">{{ p.title }}</a>
+        <!-- {{ p.excerpt }} -->
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+        <!-- </li> --> -->
+        p
+      {% endfor %}
+    </ul>
+    <hr class="star-primary">
+</div>

@@ -5,8 +5,8 @@ backend:
   site_domain: nielsenrechia.netlify.com
 media_folder: "img"
 collections:
-  - name: post # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI/
+  - name: posts # Used in routes, e.g., /admin/collections/blog
+    label: "posts" # Used in the UI/
     folder: "_posts" # The path to the folder where the documents are stored
     # filter:
     #   field: language
