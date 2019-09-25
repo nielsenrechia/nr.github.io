@@ -7,7 +7,7 @@ media_folder: "img"
 collections:
   - name: posts # Used in routes, e.g., /admin/collections/blog
     label: "posts" # Used in the UI/
-    folder: "_posts" # The path to the folder where the documents are stored
+    folder: "/_i18n/pt/_posts" # The path to the folder where the documents are stored
     # filter:
     #   field: language
     #   value: pt-br
@@ -18,6 +18,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Language", name: "language"}
+      # - {label: "Language", name: "language"}

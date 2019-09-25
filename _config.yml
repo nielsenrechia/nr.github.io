@@ -15,32 +15,6 @@ languages: ["pt", "en"]
 language_default: "pt"
 exclude_from_localizations: ["javascript", "images", "css"]
 
-# include: ['_posts']
-
-collections:
-  posts:
-defaults:
-  scope:
-    path: ""
-    # type: "posts"
-    values:
-      layout: blog
-#   post: # Used in routes, e.g., /admin/collections/blog
-#     label: "Blog" # Used in the UI
-#     folder: "_posts" # The path to the folder where the documents are stored
-#     filter:
-#       field: language
-#       value: pt-br
-#     output: true
-#     permalink: "/blog/:name"
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: blog
-# animals:
-#     output: true
 
 # Google webmaster tools
 google_verify:
