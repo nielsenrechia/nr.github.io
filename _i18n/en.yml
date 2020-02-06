@@ -34,7 +34,7 @@ site:
     graduation_fields: "Fields: Virtual Machines and Intelligent Systems"
     experience: "Experience"
     agibank: "Corporate Data Science Specialist / Machine Learning at"
-    agibank_fields: "Developing pipelines for models, exploring tools like MlFlow, MetaFlow, AirFlow, Docker, Kubernetes, and SageMaker. Collaborating closely with partners and other scientists, data analysts and data engineers. Developing, teaching and promoting workshops, coaching, and lectures to encourage the Data-Driven Culture addressing technologies such as Spark, Scala, Python, and R on AWS architecture, as well as best practices of libraries such as Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras, and Theano.
+    agibank_fields: "Developing pipelines for models, exploring tools like MlFlow, MetaFlow, AirFlow, Docker, Kubernetes, and SageMaker. Collaborating closely with partners and other scientists, data analysts and data engineers. Developing, teaching and promoting workshops, coaching, and lectures to encourage the Data-Driven Culture addressing technologies such as Spark, Scala, Python, and R on AWS architecture, as well as best practices of libraries such as Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras, and Theano."
     uniritter: "Graduation Coordinator / Assistant Professor at"
     uniritter_fields: "Acting as Coordinator and Professor in the graduation (Lato Sensu) curse of Data Science, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
     phd_research_2: "Ph.D. Candidate Research in the Credit Fraud project between"

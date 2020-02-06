@@ -16,7 +16,7 @@ site:
     f: "É Mestre em Ciência da Computação (2015) pela Universidade Federal de Santa Maria"
     h: "Em 2012 ajudou a criar o"
     i: "um sistema de delivery online de comida, o qual servia como intermediador entre consumidores e estabelecimentos de alimentação. Em 2016 o Gruboo foi vendido ao"
-    j: "Atualmente trabalha no desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colaborar estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS, além de práticas recomendadas de bibliotecas como Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras e Theano."
+    j: "Atualmente trabalha no desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colabora estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS"
     k: "Possui experiência em Inteligência Artificial, Mineração de Dados, Aprendizado de Máquina e Engenharia de Software, atuando principalmente com Big data, Fluxo Contínuo de Dados, Aprendizado supervisionado e não-supervisionado e Raciocínio Baseado em Casos"
     l: "Programo em"
     m: "e"
@@ -34,7 +34,7 @@ site:
     graduation_fields: "Áreas: Máquinas Virtuais e Sistemas Inteligentes"
     experience: "Experiência"
     agibank: "Corporate Data Science Specialist / Machine Learning no"
-    agibank_fields: "Desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colaborar estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS, além de práticas recomendadas de bibliotecas como Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras e Theano.
+    agibank_fields: "Desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colabora estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS"
     uniritter: "Coordenador Pós-graduação / Professor Auxiliar na"
     uniritter_fields: "Atuando como Coordenador e Professor no curso de Pós-Graduação (Lato Sensu) em Data Science, bem como Professor nos cursos de graduação em Ciência da Computação, Big Data e Inteligência Analítica e Análise e Desenvolvimento de Software"
     phd_research_2: "Pesquisador Doutorando no projeto Mobile Data Analytics entre"
