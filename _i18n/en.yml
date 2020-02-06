@@ -8,15 +8,15 @@ site:
     publications: "Publications"
   about:
     about: "About"
-    a: "Currently, he is Data Specialist / Data Coach at"
-    b: "He is also coordinator of the Graduate Course of Data Cience and Big Data at"
+    a: "Currently, he is Corporate Data Science Specialist / Machine Learning at"
+    b: "He is also coordinator of the Graduate Course of Data Cience at"
     c: "He is Ph.D. in Computer Science (2019) by the Pontifical Catholic University of Rio Grande do Sul"
     d: "He was Substitute Lecture at Federal University of Santa Maria"
     e: "from March 2014 to August 2015"
     f: "He is MSc in Computer Science (2015) by the Federal University of Santa Maria"
     h: "In 2012 he was one of the founders of"
     i: "an online food order and delivery service, which acts as an intermediary between independent take-out food outlets and customers. In 2016 it was sold to"
-    j: "Currently, he works with D2A - Data-Driven Agibank methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream). The main activities are exploration, analysis, conciliation, availability, and collection of data on Data Lake, as well as investigation of problems through technologies such as Hadoop, Spark, Hive, Presto, Python, Scala and R on AWS EMR / SageMaker architecture. In addition, performing analysis and pre-processing of a large volume of data and working with Machine Learning and Statistical approaches for providing data-driven solutions"
+    j: "Currently, He is developing pipelines for models, exploring tools like MlFlow, MetaFlow, AirFlow, Docker, Kubernetes, and SageMaker. Collaborating closely with partners and other scientists, data analysts and data engineers. Developing, teaching and promoting workshops, coaching, and lectures to encourage the Data-Driven Culture addressing technologies such as Spark, Scala, Python, and R on AWS architecture, as well as best practices of libraries such as Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras, and Theano."
     k: "He has experience in Artificial Intelligence, Data Mining, Machine Learning, and Software Engineering, working mainly with Big data, Data Streams, Supervised and Unsupervised ML, and Case Based Reasoning"
     l: "I code in"
     m: "and"
@@ -33,10 +33,10 @@ site:
     graduation: "B.A., Information Systems, Franciscan University"
     graduation_fields: "Fields: Virtual Machines and Intelligent Systems"
     experience: "Experience"
-    agibank: "Data Specialist / Data Coach at"
-    agibank_fields: "Working with the D2A - Data-Driven Agibank methodologies aiming at new possibilities for business areas through research and coaching to deliver automated and scalable solutions (incremental and for data stream). The main activities are exploration, analysis, conciliation, availability, and collection of data on Data Lake, as well as investigation of problems through technologies such as Hadoop, Spark, Hive, Presto, Python, Scala and R on AWS EMR / SageMaker architecture. In addition, performing analysis and pre-processing of a large volume of data and working with Machine Learning and Statistical approaches for providing data-driven solutions"
+    agibank: "Corporate Data Science Specialist / Machine Learning at"
+    agibank_fields: "Developing pipelines for models, exploring tools like MlFlow, MetaFlow, AirFlow, Docker, Kubernetes, and SageMaker. Collaborating closely with partners and other scientists, data analysts and data engineers. Developing, teaching and promoting workshops, coaching, and lectures to encourage the Data-Driven Culture addressing technologies such as Spark, Scala, Python, and R on AWS architecture, as well as best practices of libraries such as Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras, and Theano.
     uniritter: "Graduation Coordinator / Assistant Professor at"
-    uniritter_fields: "Acting as Coordinator and Professor in the graduation (Lato Sensu) curse of Data Science and Big Data, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
+    uniritter_fields: "Acting as Coordinator and Professor in the graduation (Lato Sensu) curse of Data Science, and as Professor in undergraduate curses of Computer Science, Big Data and Analytical intelligence, and Analysis and Software Development"
     phd_research_2: "Ph.D. Candidate Research in the Credit Fraud project between"
     phd_research_fields_2: "Big Data, Data Stream, Data Mining and Machine Learning Research in the context of business issues"
     phd_research_1: "Ph.D. Candidate Research in the Mobile Data Analytics project between"
@@ -61,7 +61,7 @@ site:
     social: "AROUND THE WEB"
     credits: "Educational Location"
 b1: Uniritter
-b2: Data Scince and Big Data
+b2: Data Scince
 b3: João Wallig Avenue, 1800, 4th Floor
 b4: Passo d'Areia
 b5: Porto Alegre, RS, Brazil

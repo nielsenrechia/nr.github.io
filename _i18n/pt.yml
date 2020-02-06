@@ -8,15 +8,15 @@ site:
     publications: "Publicações"
   about:
     about: "Sobre"
-    a: "Atualmente, é Data Specialist / Data Coach no"
-    b: "Também é coordenador do curso de Pós-Graduação em Data Science e Big Data na"
+    a: "Atualmente, é Corporate Data Science Specialist / Machine Learning no"
+    b: "Também é coordenador do curso de Pós-graduação em Data Science na"
     c: "É Doutor em Ciência da Computação (2019) pela Pontifícia Universidade Católica do Rio Grande do Sul"
     d: "Foi professor substituto na Universidade Federal de Santa Maria"
     e: "de Março de 2014 até Agosto de 2015"
     f: "É Mestre em Ciência da Computação (2015) pela Universidade Federal de Santa Maria"
     h: "Em 2012 ajudou a criar o"
     i: "um sistema de delivery online de comida, o qual servia como intermediador entre consumidores e estabelecimentos de alimentação. Em 2016 o Gruboo foi vendido ao"
-    j: "Atualmente, atua no desenvolvimento da metodologias D2A - Data-Driven Agibank - visando novas possibilidades para áreas de negócio do banco por meio de pesquisas e coaching buscando entregar soluções automatizadas e escaláveis (incremental e para fluxo contínuo de dados). As principais atividades são exploração, análise, conciliação e disponibilidade de dados no Data Lake, bem como a investigação de problemas com uso de tecnologias como Hadoop, Spark, Hive, Presto, Python, Scala e R on AWS EMR / SageMaker. Além disso, executando análise e pré-processamento de Big Data por meio de bordagens estatísticas e de aprendizado de máquina para fornecer soluções orientadas a dados. Por fim, identificando e relatando informações de resultados das análises por meio ferramentas como Tableau e Power Bi"
+    j: "Atualmente trabalha no desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colaborar estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS, além de práticas recomendadas de bibliotecas como Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras e Theano."
     k: "Possui experiência em Inteligência Artificial, Mineração de Dados, Aprendizado de Máquina e Engenharia de Software, atuando principalmente com Big data, Fluxo Contínuo de Dados, Aprendizado supervisionado e não-supervisionado e Raciocínio Baseado em Casos"
     l: "Programo em"
     m: "e"
@@ -33,10 +33,10 @@ site:
     graduation: "Bacharelado em Sistemas de Informação, Universidade Fransciscana"
     graduation_fields: "Áreas: Máquinas Virtuais e Sistemas Inteligentes"
     experience: "Experiência"
-    agibank: "Data Specialist/ Data Coach no"
-    agibank_fields: "Desenvolvimento da metodologias D2A - Data-Driven Agibank - visando novas possibilidades para áreas de negócio do banco por meio de pesquisas e coaching buscando entregar soluções automatizadas e escaláveis (incremental e para fluxo contínuo de dados). As principais atividades são exploração, análise, conciliação e disponibilidade de dados no Data Lake, bem como a investigação de problemas com uso de tecnologias como Hadoop, Spark, Hive, Presto, Python, Scala e R on AWS EMR / SageMaker. Além disso, executando análise e pré-processamento de Big Data por meio de bordagens estatísticas e de aprendizado de máquina para fornecer soluções orientadas a dados. Por fim, identificando e relatando informações de resultados das análises por meio ferramentas como Tableau e Power Bi"
-    uniritter: "Coordenador Pós-Graduação / Professor Auxiliar na"
-    uniritter_fields: "Atuando como Coordenador e Professor no curso de Pós-Graduação (Lato Sensu) em Data Science e Big Data, bem como Professor nos cursos de graduação em Ciência da Computação, Big Data e Inteligência Analítica e Análise e Desenvolvimento de Software"
+    agibank: "Corporate Data Science Specialist / Machine Learning no"
+    agibank_fields: "Desenvolvimento de pipelines para modelos, explorando ferramentas como MlFlow, MetaFlow, AirFlow, Docker, Kubernetes e SageMaker. Colaborar estreitamente com os parceiros e outros cientistas, analistas de dados e engenheiros de dados. Desenvolve, ensina e promove oficinas, treinamento e palestras para incentivar a cultura orientada a dados que aborda tecnologias como Spark, Scala, Python e R na arquitetura da AWS, além de práticas recomendadas de bibliotecas como Pandas, Vaex, Numpy, Sklearn, Scipy, Statsmodel, Tensorflow, Keras e Theano.
+    uniritter: "Coordenador Pós-graduação / Professor Auxiliar na"
+    uniritter_fields: "Atuando como Coordenador e Professor no curso de Pós-Graduação (Lato Sensu) em Data Science, bem como Professor nos cursos de graduação em Ciência da Computação, Big Data e Inteligência Analítica e Análise e Desenvolvimento de Software"
     phd_research_2: "Pesquisador Doutorando no projeto Mobile Data Analytics entre"
     phd_research_fields_2: "Big Data, Fluxo Contínuo de Dados, Pesquisa de Mineração de Dados e Aprendizado de Máquina no contexto de problemas de negócio"
     phd_research_1: "Pesquisador Doutorando no projeto Credit Fraud entre"
@@ -61,7 +61,7 @@ site:
     social: "Redes Sociais"
     credits: "Educação"
 b1: Uniritter
-b2: Data Science e Big Data
+b2: Data Science
 b3: Av. João Wallig, 1800, 4˚ Andar
 b4: Passo d'Areia
 b5: Porto Alegre, RS, Brasil
